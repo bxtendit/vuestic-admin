@@ -40,6 +40,7 @@
     "v-tooltip": "^2.0.2",
     "vee-validate": "^2.2.13",
     "vue": "^2.6.10",
+    "vue-apollo": "^3.0.0-beta.11",
     "vue-bulma-expanding": "0.0.1",
     "vue-chartjs": "^3.4.0",
     "vue-clipboard2": "^0.3.1",
@@ -71,6 +72,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
     "eslint-plugin-vue": "^6.0.1",
+    "graphql-tag": "^2.9.0",
     "lint-staged": "^9.2.1",
     "node-sass": "^4.13.0",
     "sass-loader": "^7.3.1",
@@ -80,6 +82,7 @@
     "stylelint-config-standard": "^19.0.0",
     "stylelint-scss": "^3.13.0",
     "stylelint-webpack-plugin": "^1.0.1",
+    "vue-cli-plugin-apollo": "~0.22.2",
     "vue-cli-plugin-build-info": "~0.1.12",
     "vue-template-compiler": "^2.6.10"
   },
